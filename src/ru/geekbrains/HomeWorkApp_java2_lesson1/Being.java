@@ -1,5 +1,5 @@
 package ru.geekbrains.HomeWorkApp_java2_lesson1;
-
+//
 public class Being implements RunnableJumpable {
 
     private final String name;
